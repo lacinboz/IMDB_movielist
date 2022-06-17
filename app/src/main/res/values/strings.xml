@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IMDB_movielist</string>
+    <string name="movie_list_recyclerview">movie_list_recyclerview</string>
+</resources>
